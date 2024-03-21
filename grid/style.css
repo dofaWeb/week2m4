@@ -1,0 +1,52 @@
+.container{
+    background-color: grey;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: center;
+}
+
+.boxColor{
+    display: inline-block;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.indigo{
+    background-color: indigo;
+}
+
+.white
+{
+    background-color: white;
+}
